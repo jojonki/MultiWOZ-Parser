@@ -1,2 +1,13 @@
-# MultiWOZ-Parser
-A parser of the Multi-Domain Wizard-of-Oz dataset (MultiWOZ)
+# MultiWOZ-Parser (Unofficial)
+A parser of the Multi-Domain Wizard-of-Oz dataset (MultiWOZ). The dataset consists of 2,730 single-domain dialogues that include booking if the domain allows for that and 7,375 multi-domain dialogues consisting of at least 2 up to 5 domains.
+
+> Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing.
+> Osman Ramadan, Paweł Budzianowski, Milica Gašić. ACL 2018.
+> https://arxiv.org/abs/1807.06517
+
+## Dataset
+You can download the dataset [here](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/).
+
+## How to use the parser?
+
+:construction:  
