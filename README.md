@@ -8,6 +8,9 @@ A parser of the Multi-Domain Wizard-of-Oz dataset (MultiWOZ). The dataset consis
 ## Dataset
 You can download the dataset [here](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/).
 
+## Parsers
+There are two types of the parser; _iptyhon_ and _python_. Basically, they are the same and you can see some data processing flow and some sample data.
+
 ## How to use the parser?
 
 :construction:  
