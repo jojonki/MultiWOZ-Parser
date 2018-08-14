@@ -34,15 +34,16 @@ def main():
     assert(len(valid_data) == len(valid_id_list))
     assert(len(test_data) == len(test_id_list))
 
+    # print some dialogs with Dialog States
+    for d in train_data[:3]:
+        print('-' * 50)
+        analyze_dialog(d, True)
+
     hotel_db_list      = load_json('{}/hotel_db.json'.format(d_dir))
     train_db_list      = load_json('{}/train_db.json'.format(d_dir))
     attractin_db_list  = load_json('{}/attraction_db.json'.format(d_dir))
     restaurant_db_list = load_json('{}/restaurant_db.json'.format(d_dir))
-    print(hotel_db_list[0]) # print a sample entity
-
-    for d in train_data[:3]:
-        print('-' * 50)
-        analyze_dialog(d, True)
+    # print(hotel_db_list[0]) # print a sample entity
 
 
 if __name__ == "__main__":
