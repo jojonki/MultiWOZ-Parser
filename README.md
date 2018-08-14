@@ -19,4 +19,6 @@ There are two types of the parser; _iptyhon_ and _python_. Basically, they are t
 
 ## How to use the parser?
 
-:construction:  
+```
+python main.py --data_dir ./MultiWOZ/
+```
