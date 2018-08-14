@@ -22,3 +22,5 @@ There are two types of the parser; _iptyhon_ and _python_. Basically, they are t
 ```
 python main.py --data_dir ./MultiWOZ/
 ```
+
+Or, just use Jupyter Notebook for `Parser.ipynb`.
