@@ -27,8 +27,6 @@ Or, just use Jupyter Notebook for `Parser.ipynb`.
 ## Domain Annotator (Unofficial) :construction: 
 I automatically annotated domains for the user turns since the aurthors do not provide domain labels. Also, a domain classification is not their goal.
 
-:construction: 
-
 - Annotation rules
     - If a DST is updated by an user, the updated domain is used.
     - All the domains are noted in the `goal` property in the dialog.
