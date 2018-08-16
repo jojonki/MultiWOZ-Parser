@@ -1,5 +1,3 @@
-:construction:  This parser is in the middle of development.
-
 # MultiWOZ-Parser (Unofficial)
 A parser of the Multi-Domain Wizard-of-Oz dataset (MultiWOZ). The dataset consists of 2,730 single-domain dialogues that include booking if the domain allows for that and 7,375 multi-domain dialogues consisting of at least 2 up to 5 domains.
 
@@ -26,7 +24,7 @@ python parse_example.py --data_dir ./MultiWOZ/
 Or, just use Jupyter Notebook for `Parser.ipynb`.
 
 
-## Domain Annotator (Unofficial)
+## Domain Annotator (Unofficial) :construction: 
 I automatically annotated domains for the user turns since the aurthors do not provide domain labels. Also, a domain classification is not their goal.
 
 :construction: 
